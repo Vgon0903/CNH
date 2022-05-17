@@ -5,13 +5,9 @@ CONSTRUA O FLUXOGRAMA E O ALGORITMO QUE IDENTIFIQUE SE PODE O USUÁRIO PODE OU N
 
 Início
 
-     Enquanto Existem disciplinas? Faça
-          Enquanto Existem alunos? Faça
-		Ler as notas de um aluno da disciplina em questão
-		Calcular a nota final
-		Exibir sua nota
-          Fim Enquanto
-     Fim Enquanto    
+PORTUGOL COMENTARIO FAZER...
+
+
 
 Fim
 
