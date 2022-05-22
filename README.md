@@ -5,7 +5,13 @@ CONSTRUA O FLUXOGRAMA E O ALGORITMO QUE IDENTIFIQUE SE PODE O USUÁRIO PODE OU N
 
 Início
 
-PORTUGOL COMENTARIO FAZER...
+Exibir mensagem "Carterira de trabalho"
+Exibir opção para fazer escolha
+Enquanto Existem perguntas? Faça
+	Ler respostas das perguntas 
+	Se todas as respostas forem sim apresentar que foi aprovado 
+	Se alguma resposta for não exibir que foi reprovado
+ Fim Enquanto    
 
 
 
